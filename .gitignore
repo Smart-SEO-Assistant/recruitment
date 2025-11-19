@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.vite
+
+# Build
+build
+dist
+
+# Pliki środowiskowe
+.env
+*.env
+.env.test
+
+# System operacyjny / edytory
+.idea/
+.run/
+.vscode/
+
+# Logi
+logs/
