@@ -4,6 +4,9 @@ Repo zawiera minimalny serwer Fastify z miejscem na implementację w `src/routes
 
 Celem zadania jest rozszerzenie istniejącej trasy czatu o kompletną obsługę walidacji i sanityzacji danych wejściowych oraz wywołanie API OpenAI Chat Completions w celu wygenerowania odpowiedzi, zgodnie z najlepszymi praktykami tworzenia API.
 
+## Zasoby
+- [Dokumentacja OpenAI Chat Completions API](https://platform.openai.com/docs/api-reference/chat/create)
+
 ## Zasady pracy
 - Możesz instalować zewnętrzne bilbioteki, z wyłączeniem OpenAI SDK.
 - Możesz wykorzystywać zewnętrzne zasoby wiedzy, wyszukiwać informacji w internecie.
